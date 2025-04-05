@@ -1,6 +1,9 @@
 Hi 👋 My name is Thidarut Deeramies
 ===================================
 
+A Software Developer
+--------------------
+
 * 🌍  I'm based in Thailand
 
 ### Skills
