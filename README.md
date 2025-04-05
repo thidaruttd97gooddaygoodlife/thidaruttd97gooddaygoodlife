@@ -10,7 +10,6 @@
 - 💬 Ask me about **TypeScript, Python, React, Flask, or Node.js**
 - 🌱 Always exploring the latest tools in tech & design
 
----
 
 ### 🛠️ Tech Stack
 
@@ -56,9 +55,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EC4899&center=true&vCenter=true&width=435&lines=Keep+Pushing+Code...;Build+Better+Things...;You+Got+This!+🚀" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thidaruttd97gooddaygoodlife&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
 
 ---
 
