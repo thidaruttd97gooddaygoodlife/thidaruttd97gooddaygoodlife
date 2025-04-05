@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋 I'm Thidarut Deeramies</h1>
-<h3 align="center">A passionate Software Developer from Thailand</h3>
-
+<h1 align="center">Hi 👋 I'm Thidarut Deeramies 👩‍💻 </h1>
+<h3 align="center" style="color:#D4D4D4;">A passionate Software Developer from Thailand</h3>
 ---
 
 ### 🚀 About Me
@@ -13,49 +12,48 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,r,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,docker,vscode,figma" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📡 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/thidaruttd97gooddaygoodlife" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=ec4899" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thidaruttd97gooddaygoodlife&show_icons=true&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=a855f7&bg_color=171717&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thidaruttd97gooddaygoodlife&show_icons=true&count_private=true&title_color=ec4899&text_color=d4d4d4&icon_color=8b5cf6&bg_color=1f2937&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thidaruttd97gooddaygoodlife&stroke=a855f7&background=171717&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thidaruttd97gooddaygoodlife&stroke=8b5cf6&background=1f2937&ring=ec4899&fire=ec4899&currStreakNum=8b5cf6&currStreakLabel=ec4899&sideNums=d4d4d4&sideLabels=d4d4d4&dates=d4d4d4&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thidaruttd97gooddaygoodlife&langs_count=10&title_color=ec4899&text_color=d4d4d4&icon_color=8b5cf6&bg_color=1f2937&hide_border=true&locale=en&custom_title=Top%20Languages" />
+</p>
+
+---
+
+### 🌌 Vibes
+
+> “The future belongs to those who code it.” – You, probably 💫
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EC4899&center=true&vCenter=true&width=435&lines=Keep+Pushing+Code...;Build+Better+Things...;You+Got+This!+🚀" />
 </p>
 
 <p align="left">
