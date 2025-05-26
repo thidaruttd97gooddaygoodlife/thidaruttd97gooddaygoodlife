@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🌍 I'm based in **Thailand**
-- 👩‍💻 I love building full-stack web & AI-integrated apps
+- 👩‍💻 I love building full-stack web & AI-integrated apps & Data Visuallization
 - 🧠 Currently improving my **AI, React Native, and Backend** skills
 - 💬 Ask me about **TypeScript, Python, React, Flask, or Node.js**
 - 🌱 Always exploring the latest tools in tech & design
