@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,r,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,docker,vscode,figma" />
 </p>
 
----
 
 ### 📊 Data Visualization Tools
 
