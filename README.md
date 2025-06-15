@@ -6,7 +6,7 @@
 
 - 🌍 I'm based in **Thailand**
 - 👩‍💻 I love building full-stack web & AI-integrated apps & Data Visuallization
-- - 📊 I'm passionate about **Data Visualization** using **Power BI & Excel**
+- 📊 I'm passionate about **Data Visualization** using **Power BI & Excel**
 - 🧠 Currently improving my **AI, React Native, and Backend** skills
 - 💬 Ask me about **TypeScript, Python, React, Flask, Node.js, DAX, Power BI**
 - 🌱 Always exploring the latest tools in tech & design
@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,r,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,vscode,figma" />
 </p>
 
 
