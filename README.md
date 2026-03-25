@@ -28,27 +28,4 @@
 
 ---
 
-### 📡 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/thidaruttd97gooddaygoodlife" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=ec4899" />
-  </a>
-</p>
-
----
-
-### 🌌 Vibes
-
-> “The future belongs to those who code it.” – You, probably 💫
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EC4899&center=true&vCenter=true&width=435&lines=Keep+Pushing+Code...;Build+Better+Things...;You+Got+This!+🚀" />
-</p>
-
-
----
-
 🎉 Thanks for visiting my profile! Feel free to ⭐️ any project you like!
