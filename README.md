@@ -1,31 +1,39 @@
 <h1 align="center">Hi 👋 I'm Thidarut Deeramies 👩‍💻 </h1>
-<h3 align="center" style="color:#D4D4D4;">A passionate Data Science and AI Engineering </h3>
+<h3 align="center">Full-Stack AI Engineer & Data Scientist </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Agentic%20AI-red?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20AI-blue?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Data%20Science-green?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Cloud%20Native-orange?style=flat-square&logo=amazon-aws" />
+</p>
 
 ### 🚀 About Me
 
-- 🌍 I'm based in **Thailand**
-- 👩‍💻 I love building full-stack web & AI-integrated apps & Data Visuallization
-- 📊 I'm passionate about **Data Visualization** using **Power BI & Excel**
-- 🧠 Currently improving my **AI, React Native, and Backend** skills
-- 💬 Ask me about **TypeScript, Python, React, Flask, Node.js, DAX, Power BI**
-- 🌱 Always exploring the latest tools in tech & design
-
+- 🌍 Based in **Thailand** | Senior Applied CS Student at **KMUTT**
+- 🤖 **Specializing in Agentic AI:** Architecting autonomous workflows using **LangGraph, RAG, and Llama 3**.
+- 🛠️ **Full-Stack Prototyping (POC):** Building end-to-end apps with **Next.js 14, FastAPI, and Docker**.
+- 📊 **Data Intelligence:** Passionate about **Predictive Maintenance, Anomaly Detection,** and **Recommendation Systems**.
+- ☁️ **Infrastructure:** Experienced in **Microservices (AWS), IoT (MQTT), and Vector Databases (ChromaDB)**.
+- 🎯 **Goal:** Bridging the gap between Advanced Analytics and Production-ready AI Applications.
+- 📅 **Available for full-time work from August 2026.**
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,vscode,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,fastapi,nodejs,mongodb,postgres,aws,docker,linux,github,figma" />
 </p>
 
+### 🧠 Expert Domains
 
-### 📊 Data Visualization Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-222222?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" />
-</p>
+- **AI & ML:** LangGraph, RAG, Multi-modal (Gemini/OpenAI), YOLOv8, XGBoost, Time-Series.
+- **Data Visualization:** Power BI (DAX Expert), Microsoft Excel (Advanced Analytics).
+- **Optimization:** Metaheuristic Algorithms (PSO), Constrained Portfolio Optimization.
 
 ---
 
-🎉 Thanks for visiting my profile! Feel free to ⭐️ any project you like!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Ave's GitHub Stats" />
+</p>
+
+🎉 Thanks for visiting! Feel free to explore my repositories or ⭐️ any project you like!
