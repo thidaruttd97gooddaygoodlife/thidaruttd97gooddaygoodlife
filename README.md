@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,fastapi,nodejs,mongodb,postgres,aws,googlecloudplatform,docker,linux,github,figma" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,fastapi,nodejs,mongodb,postgres,aws,gcp,docker,linux,github,figma" />
 </p>
 
 ### 🧠 Expert Domains
