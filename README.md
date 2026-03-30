@@ -14,14 +14,14 @@
 - 🤖 **Specializing in Agentic AI:** Architecting autonomous workflows using **LangGraph, RAG, and Llama 3**.
 - 🛠️ **Full-Stack Prototyping (POC):** Building end-to-end apps with **Next.js 14, FastAPI, and Docker**.
 - 📊 **Data Intelligence:** Passionate about **Predictive Maintenance, Anomaly Detection,** and **Recommendation Systems**.
-- ☁️ **Infrastructure:** Experienced in **Microservices (AWS), IoT (MQTT), and Vector Databases (ChromaDB)**.
+- ☁️ **Infrastructure:** Experienced in **Microservices (AWS), Google Cloud Platform, IoT (MQTT), and Vector Databases (ChromaDB)**.
 - 🎯 **Goal:** Bridging the gap between Advanced Analytics and Production-ready AI Applications.
 - 📅 **Available for full-time work from August 2026.**
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,fastapi,nodejs,mongodb,postgres,aws,docker,linux,github,figma" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,fastapi,nodejs,mongodb,postgres,aws,googlecloudplatform,docker,linux,github,figma" />
 </p>
 
 ### 🧠 Expert Domains
