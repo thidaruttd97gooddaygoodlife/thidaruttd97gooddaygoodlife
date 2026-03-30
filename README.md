@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🌍 Based in **Thailand** | Senior Applied CS Student at **KMUTT**
+- 🌍 Based in **Thailand** | Senior Applied Computer Science Student at **KMUTT**
 - 🤖 **Specializing in Agentic AI:** Architecting autonomous workflows using **LangGraph, RAG, and Llama 3**.
 - 🛠️ **Full-Stack Prototyping (POC):** Building end-to-end apps with **Next.js 14, FastAPI, and Docker**.
 - 📊 **Data Intelligence:** Passionate about **Predictive Maintenance, Anomaly Detection,** and **Recommendation Systems**.
