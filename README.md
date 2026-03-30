@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Ave's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thidaruttd97gooddaygoodlife&show_icons=true&theme=tokyonight" alt="Aum's GitHub Stats" />
 </p>
 
 🎉 Thanks for visiting! Feel free to explore my repositories or ⭐️ any project you like!
