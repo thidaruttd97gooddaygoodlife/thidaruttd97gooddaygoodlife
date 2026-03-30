@@ -2,10 +2,8 @@
 <h3 align="center">Full-Stack AI Engineer & Data Scientist </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Agentic%20AI-red?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/-Full--Stack%20AI-blue?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/-Data%20Science-green?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Cloud%20Native-orange?style=flat-square&logo=amazon-aws" />
 </p>
 
 ### 🚀 About Me
