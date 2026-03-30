@@ -26,7 +26,7 @@
 
 ### 🧠 Expert Domains
 
-- **AI & ML:** LangGraph, RAG, Multi-modal (Gemini/OpenAI), YOLOv8, XGBoost, Time-Series.
+- **AI & ML:** LangGraph, RAG, Multi-modal (Gemini/OpenAI/Gloq), YOLOv8, XGBoost, Regression Model, Time-Series Forecasting.
 - **Data Visualization:** Power BI (DAX Expert), Microsoft Excel (Advanced Analytics).
 - **Optimization:** Metaheuristic Algorithms (PSO), Constrained Portfolio Optimization.
 
