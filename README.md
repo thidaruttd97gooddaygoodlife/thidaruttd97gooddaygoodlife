@@ -14,7 +14,6 @@
 - 📊 **Data Intelligence:** Passionate about **Predictive Maintenance, Anomaly Detection,** and **Recommendation Systems**.
 - ☁️ **Infrastructure:** Experienced in **Microservices (AWS), Google Cloud Platform, IoT (MQTT), and Vector Databases (ChromaDB)**.
 - 🎯 **Goal:** Bridging the gap between Advanced Analytics and Production-ready AI Applications.
-- 📅 **Available for full-time work from August 2026.**
 
 ### 🛠️ Tech Stack
 
